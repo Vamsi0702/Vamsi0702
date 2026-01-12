@@ -1,11 +1,11 @@
-### Hi there! 👋
+### Hi there! 
 
 I am an aspiring **Associate Software Engineer** with a strong interest in the **WordPress Ecosystem** and Open Source technologies.
 
-- 🎓 **Education:** B.E. in Computer Science (Data Science) at **Sathyabama Institute of Science and Technology**, Chennai.
-- 🔭 **Currently Working on:** Building a strong foundation in **PHP** and **JavaScript** for enterprise-grade development.
-- 🌱 **Learning Goal:** Mastering WordPress core architecture and plugin development to contribute to the open-source community.
-- ⚡ **Interests:** Web Standards, Backend Engineering, and Open Source Contribution.
+-  **Education:** B.E. in Computer Science (Data Science) at **Sathyabama Institute of Science and Technology**, Chennai.
+-  **Currently Working on:** Building a strong foundation in **PHP** and **JavaScript** for enterprise-grade development.
+-  **Learning Goal:** Mastering WordPress core architecture and plugin development to contribute to the open-source community.
+-  **Interests:** Web Standards, Backend Engineering, and Open Source Contribution.
 
 #### 🛠️ Tech Stack & Tools
 <p align="left">
