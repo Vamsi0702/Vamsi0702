@@ -3,7 +3,7 @@
 #  Vamsi Bodapati
 ### WordPress Backend Engineer | Open Source Enthusiast
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamsi0702&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamsi0702&show_icons=true&theme=tokyonight&hide_border=true&icon_color=2ecc71&text_color=2ecc71&title_color=2ecc71&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 **Building scalable, enterprise-grade WordPress solutions with a focus on high-performance architecture.**
 
@@ -26,18 +26,18 @@ I am currently maintaining a **High-Performance WordPress Portfolio** focused on
 
 ###  Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github_actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/php-%23000000.svg?style=for-the-badge&logo=php&logoColor=2ecc71" alt="PHP"/>
+  <img src="https://img.shields.io/badge/wordpress-%23000000.svg?style=for-the-badge&logo=WordPress&logoColor=2ecc71" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=2ecc71" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=2ecc71" alt="Git"/>
+  <img src="https://img.shields.io/badge/github_actions-%23000000.svg?style=for-the-badge&logo=githubactions&logoColor=2ecc71" alt="GitHub Actions"/>
 </p>
 
 ---
 
 ###  GitHub Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamsi0702&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamsi0702&theme=tokyonight&hide_border=true&stroke=2ecc71&background=000000&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71" alt="GitHub Streak" />
 </div>
 
 ---
