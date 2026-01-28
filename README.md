@@ -9,7 +9,7 @@
 
 [Portfolio](https://github.com/Vamsi0702/php-wordpress-learning) • 
 [LinkedIn](https://www.linkedin.com/in/vamsi-bodapati-44171228a/) • 
-[Email](mailto:your-email@example.com)
+[Email](mailto:blkvamsi@gmail.com)
 
 </div>
 
@@ -39,6 +39,9 @@ I am currently maintaining a **High-Performance WordPress Portfolio** focused on
 **Status: Verified & Operational**
 
 *Developed a security-focused backend plugin to track real-time user activity with a focus on database efficiency.*
+<div align="center">
+  <img src="(https://github.com/Vamsi0702/php-wordpress-learning/blob/main/audit-log-success.png?raw=true)" alt="Enterprise Audit Logger Success" width="600"/>
+</div>
 
 - **Custom Schema:** Utilizes a dedicated `wp_rt_audit_logs` table for optimized performance.
 - **Event Hooks:** Captures `wp_login` events and renders live data via a custom Dashboard Widget.
