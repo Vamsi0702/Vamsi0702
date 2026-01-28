@@ -40,7 +40,7 @@ I am currently maintaining a **High-Performance WordPress Portfolio** focused on
 
 *Developed a security-focused backend plugin to track real-time user activity with a focus on database efficiency.*
 <div align="center">
-  <img src="(https://github.com/Vamsi0702/php-wordpress-learning/blob/main/audit-log-success.png?raw=true)" alt="Enterprise Audit Logger Success" width="600"/>
+  <img src="https://github.com/Vamsi0702/php-wordpress-learning/blob/main/audit-log-success.png?raw=true" alt="Enterprise Audit Logger Success" width="600"/>
 </div>
 
 - **Custom Schema:** Utilizes a dedicated `wp_rt_audit_logs` table for optimized performance.
