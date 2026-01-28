@@ -35,9 +35,9 @@ I am currently maintaining a **High-Performance WordPress Portfolio** focused on
 
 ---
 
-###  GitHub Activity
+### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamsi0702&theme=tokyonight&hide_border=true&stroke=2ecc71&background=000000&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamsi0702&theme=dark&background=000000&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&sideLabels=2ecc71&dates=2ecc71&currStreakNum=2ecc71&sideNums=2ecc71" alt="GitHub Streak" />
 </div>
 
 ---
