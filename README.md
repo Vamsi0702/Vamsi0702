@@ -1,13 +1,13 @@
 <div align="center">
 
-#  Vamsi Bodapati
-### WordPress Backend Engineer | Open Source Enthusiast
+# Vamsi Bodapati
+### WordPress Backend Engineer | Final Year B.Tech (Data Science)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamsi0702&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Building scalable, enterprise-grade WordPress solutions with a focus on high-performance architecture.**
 
-[Portfolio](https://github.com/Vamsi0702/php-wordpress-learning) • 
+[Portfolio Repository](https://github.com/Vamsi0702/php-wordpress-learning) • 
 [LinkedIn](https://www.linkedin.com/in/vamsi-bodapati-44171228a/) • 
 [Email](mailto:blkvamsi@gmail.com)
 
@@ -15,16 +15,17 @@
 
 ---
 
-###  Technical Spotlight: WordPress Engineering
-I am currently maintaining a **High-Performance WordPress Portfolio** focused on rtCamp's technology stack.
+### ⚡ Technical Spotlight: WordPress Engineering
+I maintain a high-performance portfolio aligned with the **rtCamp technology stack**, focusing on database efficiency and automated quality control.
 
-* **10x Performance Win:** Implemented custom SQL audit logging using `dbDelta` to bypass database bloat by creating dedicated schema for high-frequency writes.
-* **Automation:** Integrated **GitHub Actions** to enforce WordPress Coding Standards (WPCS) via automated PHP_CodeSniffer linting on every push.
-* **Full-Cycle Testing:** Verified backend logic across **GitHub Codespaces**, **WordPress Playground**, and **LocalWP** environments.
+* **10x Performance Strategy:** Optimized backend write operations by implementing custom SQL audit logging via `dbDelta`, bypassing `wp_posts` metadata bloat.
+* **Content Lifecycle Tracking:** Engineered v1.1.0 logic to monitor real-time post updates while intelligently filtering out auto-saves and revisions to maintain data integrity.
+* **CI/CD Automation:** Integrated **GitHub Actions** to enforce WordPress Coding Standards (WPCS) via automated PHP_CodeSniffer linting.
+* **Environment Stability:** Fully verified backend logic across **LocalWP**, **GitHub Codespaces**, and **WordPress 6.9**.
 
 ---
 
-###  Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"/>
@@ -35,27 +36,30 @@ I am currently maintaining a **High-Performance WordPress Portfolio** focused on
 
 ---
 
-###  Proof of Work: Enterprise Audit Logger
+### 🔍 Proof of Work: Enterprise Security Suite (v1.1.0)
 **Status: Verified & Operational**
 
-*Developed a security-focused backend plugin to track real-time user activity with a focus on database efficiency.*
+*Developed a security-focused backend plugin to track real-time user and content activity with a focus on database efficiency.*
+
 <div align="center">
-  <img src="https://github.com/Vamsi0702/php-wordpress-learning/blob/main/audit-log-success.png?raw=true" alt="Enterprise Audit Logger Success" width="600"/>
+  <img src="https://github.com/Vamsi0702/php-wordpress-learning/blob/main/audit-log-success.png?raw=true" alt="Enterprise Audit Logger v1.1 Success" width="600"/>
 </div>
 
-- **Custom Schema:** Utilizes a dedicated `wp_rt_audit_logs` table for optimized performance.
-- **Event Hooks:** Captures `wp_login` events and renders live data via a custom Dashboard Widget.
-- **Verification:** Successfully deployed on **WordPress 6.9**, confirming 100% database persistence and UI integration.
+
+
+- **Custom Schema:** Utilizes a dedicated `wp_rt_audit_logs` table for optimized write-heavy performance.
+- **Multi-Event Hooks:** Captures `wp_login` and `save_post` events, rendering contextual data via a custom Dashboard Widget.
+- **Data Science Bridge:** Leveraging streaming logic to ensure **O(1) memory usage** for high-volume audit logs.
 
 ---
 
-###  GitHub Activity
+### 📈 GitHub Activity
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamsi0702&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-###  Education & Goals
+### 🎓 Education & 2026 Goals
 * **Final Year B.Tech (Data Science)** | Sathyabama Institute of Science and Technology.
-* **2026 Objective:** Transitioning specialized Data Science logic into high-scale WordPress Backend systems.
+* **Career Objective:** Transitioning specialized Data Science logic into high-scale WordPress Backend systems for enterprise clients.
